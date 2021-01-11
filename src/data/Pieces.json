@@ -1,0 +1,21 @@
+{
+    "pieces": [{
+            "pieceId": "pawn-1",
+            "name": "pawn",
+            "pieceCoordinate": "c11",
+            "img_url": "./pieces/pawn.png"
+        },
+        {
+            "pieceId": "pawn-2",
+            "name": "pawn",
+            "pieceCoordinate": "c21",
+            "img_url": "./pieces/pawn.png"
+        },
+        {
+            "pieceId": "pawn-3",
+            "name": "pawn",
+            "pieceCoordinate": "c31",
+            "img_url": "./pieces/pawn.png"
+        }
+    ]
+}

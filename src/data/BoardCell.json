@@ -1,0 +1,68 @@
+{
+    "cells": [{
+            "id": 1,
+            "name": "cell-1",
+            "coordinate": "c11",
+            "isEmpty": false
+
+        },
+        {
+            "id": 2,
+            "name": "cell-2",
+            "coordinate": "c21",
+            "isEmpty": false
+
+        },
+        {
+            "id": 3,
+            "name": "cell-3",
+            "coordinate": "c31",
+            "isEmpty": false
+
+        },
+        {
+            "id": 4,
+            "name": "cell-4",
+            "coordinate": "c12",
+            "isEmpty": true
+
+        },
+        {
+            "id": 5,
+            "name": "cell-5",
+            "coordinate": "c22",
+            "isEmpty": true
+
+        },
+        {
+            "id": 6,
+            "name": "cell-6",
+            "coordinate": "c32",
+            "isEmpty": true
+
+        },
+        {
+            "id": 7,
+            "name": "cell-7",
+            "coordinate": "c13",
+            "isEmpty": true
+        },
+
+
+
+        {
+            "id": 8,
+            "name": "cell-8",
+            "coordinate": "c23",
+            "isEmpty": true
+
+        },
+        {
+            "id": 9,
+            "name": "cell-9",
+            "coordinate": "c33",
+            "isEmpty": true
+
+        }
+    ]
+}
